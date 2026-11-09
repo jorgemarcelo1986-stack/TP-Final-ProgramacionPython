@@ -1,0 +1,24 @@
+[
+    {
+        "tipo": "DispositivoEcológico",
+        "codigo": "DE-001",
+        "nombre": "Cargador solar portátil",
+        "stock": 25
+    },
+    {
+        "tipo": "PanelSolar",
+        "codigo": "PS-100",
+        "nombre": "Monocristalino 450W",
+        "stock": 12,
+        "potencia_watts": 450,
+        "eficiencia": 21.5
+    },
+    {
+        "tipo": "PanelSolar",
+        "codigo": "PS-200",
+        "nombre": "Policristalino 320W",
+        "stock": 30,
+        "potencia_watts": 320,
+        "eficiencia": 17.8
+    }
+]
